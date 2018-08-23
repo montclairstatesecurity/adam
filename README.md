@@ -1,34 +1,33 @@
 # adam
 A.D.A.M. - Automated Disaster Answering Machine
 
-If you have a problem, just ask A.D.A.M.
+If you have a problem, just ask A.D.A.M. He can answer just about any information security or IT operations related question.
 
 ```
 λ py adam.py
-
 Hello, I am A.D.A.M., The Automated Disaster Answering Machine.
 
 Ask me a question.
 
-> How do I configure an F5 ASM security profile?
+> All inbound emails are being blocked. What do I do?
 
-Get some coffee and try again.
-
-Do you have another question? [Y/N] Y
-
-Ask me a question.
-
-> The system isn't recieving emails.
-
-Try reading the documentation.
+Waiting for leadership...
 
 Do you have another question? [Y/N] y
 
 Ask me a question.
 
-> What do I do about my career?
+> I can't remember how to blacklist a DNS address in Infoblox.
 
-Get some coffee and try again.
+Let me run this up the flagpole to management and see what they think.
+
+Do you have another question? [Y/N] y
+
+Ask me a question.
+
+> Where in the Carbon Black Protection console do I add new banned hashes?
+
+Security isn't that important, don't worry.
 
 Do you have another question? [Y/N] n
 
