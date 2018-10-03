@@ -1,6 +1,9 @@
 #ADAM
 
+from __future__ import print_function
+from builtins import input
 import random
+
 answers = ['Did you try turning it off and on?', 'Blame Networking.', 'Have you tried Googling the error code?', 
            'Try reading the documentation.', 'Take a short break and try again.', 
            'Get some coffee and try again.', 'Maybe you\'re hungry? Take a break.', 'Try meditation.', 
