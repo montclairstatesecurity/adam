@@ -3,6 +3,7 @@
 from __future__ import print_function
 from builtins import input
 import random
+import os
 
 answers = ['Did you try turning it off and on?', 'Blame Networking.', 'Have you tried Googling the error code?', 
            'Try reading the documentation.', 'Take a short break and try again.', 
@@ -19,6 +20,8 @@ answers = ['Did you try turning it off and on?', 'Blame Networking.', 'Have you 
            'Waiting for leadership...', 'I don\'t have any cycles left to solve that problem.',
            'Restart the domain controllers']
 
+_=os.system("cls")
+_=os.system("clear")
 print('\nHello, I am A.D.A.M., The Automated Disaster Answering Machine.')
 
 def ADAM():
