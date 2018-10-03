@@ -22,9 +22,9 @@ answers = ['Did you try turning it off and on?', 'Blame Networking.', 'Have you 
 
 _=os.system("cls")
 _=os.system("clear")
-print('\nHello, I am A.D.A.M., The Automated Disaster Answering Machine.')
 
 def ADAM():
+    print('\nHello, I am A.D.A.M., The Automated Disaster Answering Machine.')
     print('\nAsk me a question.\n')
     print('> ', end='')
     input()
@@ -35,6 +35,8 @@ def Replay():
     print ('Do you have another question? [Y/N] ', end='')
     reply = input()
     if reply == 'Y' or reply == 'y':
+	_=os.system("cls")
+        _=os.system("clear")
         ADAM()
     elif reply == 'N' or reply == 'n':
         exit()
