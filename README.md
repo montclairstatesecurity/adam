@@ -1,20 +1,20 @@
 # adam
 A.D.A.M. - Automated Disaster Answering Machine
 
-If you have a problem, just ask A.D.A.M. He can answer just about any information security or IT operations related question. Use python2 because python3 is too hard.
+If you have a problem, just ask A.D.A.M. He can answer just about any information security or IT operations related question. Use python3 because come on dude.
 
 # How?
 
 ```bash
 git clone https://github.com/montclairstatesecurity/adam.git
 cd adam
-python adam.py
+python3 adam.py
 ```
 
 # What?
 
 ```bash
-$ python adam.py
+$ python3 adam.py
 Hello, I am A.D.A.M., The Automated Disaster Answering Machine.
 
 Ask me a question.
