@@ -10,15 +10,16 @@ answers = ['Did you try turning it off and on?', 'Blame Networking.', 'Have you 
            'Unplug the machine.','Delete everything on the machine.', 'Wipe the hard drive.',
            'Find an open window and throw the machine out of it.', 'It works better hacked.',
            'Sorry, I\'m on vacation in Flavortown right now.', 'Security isn\'t that important, don\'t worry.',
-           'I know it hasn\'t worked yet, but if you try 10 or more times it might work',
-           'Please open up a ticket and forward it to the president',
+           'I know it hasn\'t worked yet, but if you try 10 or more times it might work.',
+           'Please open up a ticket and forward it to the president or CEO.',
            'Go to the bathroom, create a giant wad of toilet paper and scream all of your worries into it at the top of your lungs.',
            'Sorry, my ability to help you is commensurate with your experience.',
            'Flavortown is near.', 'It\'s "Bomgar", not "Bombguard"',
            'Let me run this up the flagpole to management and see what they think.',
            'Waiting for leadership...', 'I don\'t have any cycles left to solve that problem.',
            'Restart the domain controllers', 'Get military grade EDR.', 'Try whitelisting it.', 
-           'Make a dashboard.', 'Find $2 Billion in synergies.', 'Call Cognizant']
+           'Make a dashboard.', 'Find $2 Billion in synergies.', 'Call Cognizant', 'Machine Learning!',
+           'The adversary is China.', 'Try using Threatbutt.', 'Watch \"Hackers\" three times, then call me.']
 
 _=os.system("cls")
 _=os.system("clear")
