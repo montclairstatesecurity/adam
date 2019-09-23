@@ -5,7 +5,7 @@ If you have a problem, just ask A.D.A.M. He can answer just about any informatio
 
 # How?
 
-```bash
+```
 git clone https://github.com/montclairstatesecurity/adam.git
 cd adam
 python3 adam.py
@@ -13,7 +13,7 @@ python3 adam.py
 
 # What?
 
-```bash
+```
 $ python3 adam.py
 Hello, I am A.D.A.M., The Automated Disaster Answering Machine.
 
