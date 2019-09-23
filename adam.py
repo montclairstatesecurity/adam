@@ -17,7 +17,8 @@ answers = ['Did you try turning it off and on?', 'Blame Networking.', 'Have you 
            'Flavortown is near.', 'It\'s "Bomgar", not "Bombguard"',
            'Let me run this up the flagpole to management and see what they think.',
            'Waiting for leadership...', 'I don\'t have any cycles left to solve that problem.',
-           'Restart the domain controllers']
+           'Restart the domain controllers', 'Get military grade EDR.', 'Try whitelisting it.', 
+           'Make a dashboard.', 'Find $2 Billion in synergies.', 'Call Cognizant']
 
 _=os.system("cls")
 _=os.system("clear")
