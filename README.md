@@ -5,16 +5,16 @@ If you have a problem, just ask A.D.A.M. He can answer just about any informatio
 
 # How?
 
-```
-$ git clone https://github.com/montclairstatesecurity/adam.git`
-$ cd adam
-$ python adam.py
+```bash
+git clone https://github.com/montclairstatesecurity/adam.git
+cd adam
+python adam.py
 ```
 
 # What?
 
-```
-λ python adam.py
+```bash
+$ python adam.py
 Hello, I am A.D.A.M., The Automated Disaster Answering Machine.
 
 Ask me a question.
