@@ -1,10 +1,10 @@
 # adam
 A.D.A.M. - Automated Disaster Answering Machine
 
-If you have a problem, just ask A.D.A.M. He can answer just about any information security or IT operations related question.
+If you have a problem, just ask A.D.A.M. He can answer just about any information security or IT operations related question. Use python2 because python3 is too hard.
 
 ```
-λ py adam.py
+λ python adam.py
 Hello, I am A.D.A.M., The Automated Disaster Answering Machine.
 
 Ask me a question.
